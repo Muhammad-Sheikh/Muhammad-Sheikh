@@ -1,5 +1,5 @@
 Hi, Im Muhammad Sheikh!
-I am currently a Highschool student, hoping to learn and expand my coding language!
+I am currently a Highschool student, hoping to learn and expand my coding knowledge!
 If you need to reach me, please email me at muhammad-sheikh@outlook.com!
 
 <!---
